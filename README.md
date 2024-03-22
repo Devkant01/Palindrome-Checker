@@ -36,16 +36,16 @@ Output: "The input is a palindrome."
 Here are some additional test cases to verify the functionality of the application:
 
 1. Input: "hello"
-    Output: "The input is not a palindrome."
+    Output: "hello is not a Palindrome."
 
 2. Input: 12345
-    Output: "The input is not a palindrome."
+    Output: "12345 is not a Palindrome."
 
 3. Input: "Able was I saw Elba"
-    Output: "The input is a palindrome."
+    Output: "Able was I saw Elba is a Palindrome."
 
 4. Input: "123!@#321"
-    Output: "The input is a palindrome."
+    Output: "123!@#321 is a Palindrome."
 
 Feel free to add more test cases to ensure the accuracy of the palindrome checker.
 
