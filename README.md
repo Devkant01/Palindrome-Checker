@@ -53,6 +53,6 @@ Feel free to add more test cases to ensure the accuracy of the palindrome checke
 
 This project is licensed under the [MIT License](LICENSE).
 
-
+## About MIT License
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute the software for both commercial and non-commercial purposes. It provides you with the freedom to adapt the software to your needs and includes a disclaimer of warranty.
 
